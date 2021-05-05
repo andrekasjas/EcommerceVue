@@ -1,0 +1,19 @@
+<template>
+  <div class="home">
+      <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-4">E-Commerce React</h1>
+        <p class="lead">Prueba de React para cursos de desarollo de web app </p>
+    </div>
+</div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'Home'
+//   props: {
+//     msg: String
+//   }
+}
+</script>
