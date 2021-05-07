@@ -5,9 +5,9 @@
 vue.js
 ```
 ```
-imagenes
+bootstrap jquery popper.js
 ```
-## instalaciones
+## comandos
 ```
 npm i bootstrap jquery popper.js
 ```
